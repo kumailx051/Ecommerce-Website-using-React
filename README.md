@@ -5,7 +5,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
+[https://reactjs-ecommerce-app.vercel.app/](https://kumailx051.github.io/Ecommerce-Website-using-React/)
 
 ## Features
 
@@ -15,7 +15,7 @@ https://reactjs-ecommerce-app.vercel.app/
 
 ## Screenshots
 
-![App Screenshot]([https://i.ibb.co/fQ293tm/image.png](https://ibb.co/Xk9cXNZ))
+![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
 
 
 
