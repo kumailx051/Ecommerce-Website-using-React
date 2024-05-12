@@ -15,7 +15,7 @@ https://kumailx051.github.io/Ecommerce-Website-using-React/
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+![App Screenshot](https://ibb.co/Xk9cXNZ)
 
 
 
